@@ -1,0 +1,72 @@
+{
+    "municipality_city": [
+        {
+            "code":"cit0",
+            "name":"MANILA CITY"
+        },
+        {
+            "code":"cit1",
+            "name":"MANDALUYONG CITY"
+        },
+        {
+            "code":"cit2",
+            "name":"MARIKINA CITY"
+        },
+        {
+            "code":"cit3",
+            "name":"PASIG CITY"
+        },
+        {
+            "code":"que4",
+            "name":"QUEZON CITY"
+        },
+        {
+            "code":"cit5",
+            "name":"SAN JUAN CITY"
+        },
+        {
+            "code":"cit6",
+            "name":"CALOOCAN CITY"
+        },
+        {
+            "code":"cit7",
+            "name":"MALABON CITY"
+        },
+        {
+            "code":"cit8",
+            "name":"NAVOTAS CITY"
+        },
+        {
+            "code":"cit9",
+            "name":"VALENZUELA CITY"
+        },
+        {
+            "code":"cit10",
+            "name":"LAS PI\u00d1AS CITY"
+        },
+        {
+            "code":"cit11",
+            "name":"MAKATI CITY"
+        },
+        {
+            "code":"cit12",
+            "name":"MUNTINLUPA CITY"
+        },
+        {
+            "code":"cit13",
+            "name":"PARA\u00d1AQUE CITY"
+        },
+        {
+            "code":"pas14",
+            "name":"PASAY CITY"
+        },
+        {
+            "code":"pat15",
+            "name":"PATEROS MUNICIPALITY"
+        },
+        {
+            "code":"cit16",
+            "name":"TAGUIG CITY"
+        }
+    ]
+}

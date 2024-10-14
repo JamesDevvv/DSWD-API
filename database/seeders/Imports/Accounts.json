@@ -1,0 +1,128 @@
+[
+    {
+        "role_id": "1",
+        "firstname": "simplevia",
+        "lastname": "simplevia",
+        "age": "1",
+        "birthdate": "06/25/2024",
+        "contact": "09123456789",
+        "address": "simplevia",
+        "office": "simplevia",
+        "division": "simplevia",
+        "service": "simplevia",
+        "group": "simplevia",
+        "email": "simplevia@simplevia.com",
+        "password": "qwerty"
+    },
+    {
+        "role_id": "1",
+        "firstname": "EOC",
+        "lastname": "simplevia",
+        "age": "1",
+        "birthdate": "06/25/2024",
+        "contact": "09123456789",
+        "address": "EOC",
+        "office": "EOC",
+        "division": "EOC",
+        "service": "EOC",
+        "group": "EOC",
+        "email": "eoc@dswd.ph",
+        "password": "qwerty"
+    }
+    ,
+    {
+        "role_id": "1",
+        "firstname": "kurt",
+        "lastname": "kurt",
+        "age": "1",
+        "birthdate": "06/25/2024",
+        "contact": "09123456789",
+        "address": "kurt",
+        "office": "kurt",
+        "division": "kurt",
+        "service": "kurt",
+        "group": "kurt",
+        "email": "kurt@gmail.com",
+        "password": "qwerty"
+    }
+    ,
+    {
+        "role_id": "1",
+        "firstname": "christian",
+        "lastname": "christian",
+        "age": "1",
+        "birthdate": "06/25/2024",
+        "contact": "09123456789",
+        "address": "christian",
+        "office": "christian",
+        "division": "christian",
+        "service": "christian",
+        "group": "christian",
+        "email": "christian@gmail.com",
+        "password": "qwerty"
+    }
+    ,
+    {
+        "role_id": "1",
+        "firstname": "anj",
+        "lastname": "anj",
+        "age": "1",
+        "birthdate": "06/25/2024",
+        "contact": "09123456789",
+        "address": "anj",
+        "office": "anj",
+        "division": "anj",
+        "service": "anj",
+        "group": "anj",
+        "email": "anj@gmail.com",
+        "password": "qwerty"
+    }
+    ,
+    {
+        "role_id": "1",
+        "firstname": "jose",
+        "lastname": "jose",
+        "age": "1",
+        "birthdate": "06/25/2024",
+        "contact": "09123456789",
+        "address": "jose",
+        "office": "jose",
+        "division": "jose",
+        "service": "jose",
+        "group": "jose",
+        "email": "jose@gmail.com",
+        "password": "qwerty"
+    }
+    ,
+    {
+        "role_id": "1",
+        "firstname": "james",
+        "lastname": "james",
+        "age": "1",
+        "birthdate": "06/25/2024",
+        "contact": "09123456789",
+        "address": "james",
+        "office": "james",
+        "division": "james",
+        "service": "james",
+        "group": "james",
+        "email": "james@gmail.com",
+        "password": "qwerty"
+    }
+    ,
+    {
+        "role_id": "1",
+        "firstname": "aljon",
+        "lastname": "aljon",
+        "age": "1",
+        "birthdate": "06/25/2024",
+        "contact": "09123456789",
+        "address": "aljon",
+        "office": "aljon",
+        "division": "aljon",
+        "service": "aljon",
+        "group": "aljon",
+        "email": "aljon@gmail.com",
+        "password": "qwerty"
+    }
+]

@@ -1,0 +1,1351 @@
+[
+    {
+        "name": "Super Admin",
+        "description": "Super Admin",
+        "local_goverment_unit": false,
+        "emergency_operation_center": true,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Active Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Negative Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Augmentation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Dromic Reports",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Admin Settings",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Manila",
+        "description": "role for all under lgu Manila",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Mandaluyong",
+        "description": "role for all under lgu Mandaluyong",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Marikina",
+        "description": "role for all under lgu Marikina",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Pasig",
+        "description": "role for all under lgu Pasig",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Quezon City",
+        "description": "role for all under lgu Quezon City",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - San Juan",
+        "description": "role for all under lgu San Juan",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Caloocan",
+        "description": "role for all under lgu Caloocan",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Malabon",
+        "description": "role for all under lgu Malabon",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Navotas",
+        "description": "role for all under lgu Navotas",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Valenzuela",
+        "description": "role for all under lgu Valenzuela",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Las Piñas",
+        "description": "role for all under lgu Las Piñas",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Makati",
+        "description": "role for all under lgu Makati",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Muntinlupa",
+        "description": "role for all under lgu Muntinlupa",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Parañaque",
+        "description": "role for all under lgu Parañaque",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Pasay",
+        "description": "role for all under lgu Pasay",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Pateros",
+        "description": "role for all under lgu Pateros",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    },
+    {
+        "name": "LGU - Taguig",
+        "description": "role for all under lgu Taguig",
+        "local_goverment_unit": true,
+        "emergency_operation_center": false,
+        "regional_director": false,
+        "local_chief_executive": false,
+        "permision": [
+            {
+                "feature_name": "Dashboard",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Monitored Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Status of Disaster Incidents",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Chat Box",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Message Notifications",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "QRF Funds And Stockpile",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "MMDRRMMC",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "For Validation",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            },
+            {
+                "feature_name": "Create Report",
+                "create": true,
+                "view": true,
+                "modify": true,
+                "delete": true
+            }
+        ]
+    }
+]

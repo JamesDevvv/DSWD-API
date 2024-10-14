@@ -1,0 +1,121 @@
+[
+    {
+        "role_id": "2",
+        "firstname": "LGU",
+        "lastname": "Manila",
+        "email": "manila@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "3",
+        "firstname": "LGU",
+        "lastname": "Mandaluyong",
+        "email": "mandaluyong@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "4",
+        "firstname": "LGU",
+        "lastname": "Marikina",
+        "email": "marikina@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "5",
+        "firstname": "LGU",
+        "lastname": "Pasig",
+        "email": "pasig@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "6",
+        "firstname": "LGU",
+        "lastname": "Quezon City",
+        "email": "quezoncity@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "7",
+        "firstname": "LGU",
+        "lastname": "San Juan",
+        "email": "sanjuan@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "8",
+        "firstname": "LGU",
+        "lastname": "Caloocan",
+        "email": "caloocan@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "9",
+        "firstname": "LGU",
+        "lastname": "Malabon",
+        "email": "malabon@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "10",
+        "firstname": "LGU",
+        "lastname": "Navotas",
+        "email": "navotas@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "11",
+        "firstname": "LGU",
+        "lastname": "Valenzuela",
+        "email": "valenzuela@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "12",
+        "firstname": "LGU",
+        "lastname": "Las Piñas",
+        "email": "laspinas@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "13",
+        "firstname": "LGU",
+        "lastname": "Makati",
+        "email": "makati@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "14",
+        "firstname": "LGU",
+        "lastname": "Muntinlupa",
+        "email": "muntinlupa@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "15",
+        "firstname": "LGU",
+        "lastname": "Parañaque",
+        "email": "paranaque@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "16",
+        "firstname": "LGU",
+        "lastname": "Pasay",
+        "email": "pasay@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "17",
+        "firstname": "LGU",
+        "lastname": "Pateros",
+        "email": "pateros@dswd.gov.ph",
+        "password": "dswd2024"
+    },
+    {
+        "role_id": "18",
+        "firstname": "LGU",
+        "lastname": "Taguig",
+        "email": "taguig@dswd.gov.ph",
+        "password": "dswd2024"
+    }
+]

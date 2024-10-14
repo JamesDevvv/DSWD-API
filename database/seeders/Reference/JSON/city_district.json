@@ -1,0 +1,74 @@
+{
+    "city_district": [
+        {
+            "code":"ton0",
+            "Municipality_City_code":"cit0",
+            "name":"TONDO I\/II"
+        },
+        {
+            "code":"bin1",
+            "Municipality_City_code":"cit0",
+            "name":"BINONDO"
+        },
+        {
+            "code":"qui2",
+            "Municipality_City_code":"cit0",
+            "name":"QUIAPO"
+        },
+        {
+            "code":"san3",
+            "Municipality_City_code":"cit0",
+            "name":"SAN NICOLAS"
+        },
+        {
+            "code":"san4",
+            "Municipality_City_code":"cit0",
+            "name":"SANTA CRUZ"
+        },
+        {
+            "code":"sam5",
+            "Municipality_City_code":"cit0",
+            "name":"SAMPALOC"
+        },
+        {
+            "code":"san6",
+            "Municipality_City_code":"cit0",
+            "name":"SAN MIGUEL"
+        },
+        {
+            "code":"erm7",
+            "Municipality_City_code":"cit0",
+            "name":"ERMITA"
+        },
+        {
+            "code":"int8",
+            "Municipality_City_code":"cit0",
+            "name":"INTRAMUROS"
+        },
+        {
+            "code":"mal9",
+            "Municipality_City_code":"cit0",
+            "name":"MALATE"
+        },
+        {
+            "code":"pac10",
+            "Municipality_City_code":"cit0",
+            "name":"PACO"
+        },
+        {
+            "code":"pan11",
+            "Municipality_City_code":"cit0",
+            "name":"PANDACAN"
+        },
+        {
+            "code":"por12",
+            "Municipality_City_code":"cit0",
+            "name":"PORT AREA"
+        },
+        {
+            "code":"san13",
+            "Municipality_City_code":"cit0",
+            "name":"SANTA ANA"
+        }
+    ]
+}
